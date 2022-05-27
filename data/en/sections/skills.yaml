@@ -11,12 +11,12 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: SolidWorks CAD
+  logo: /images/sections/skills/SolidWorks-Logo.png
+  summary: "Capable of designing Models, creating multipart assemblies and drafting drawings"
+  url: "https://www.solidworks.com/"
 
-- name: Go Development
+- name: Fusion 360
   logo: /images/sections/skills/go.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://golang.org/"
