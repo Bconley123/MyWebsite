@@ -6,10 +6,10 @@ greeting: "Hi, I am"
 image: "images/author/john.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
-  github: johndoe
-  linkedin: johndoe
+  email: "rc499@njit.edu"
+  phone: "7322725201"
+  github: Bconley123
+  linkedin: bobby-conley
 
 # some summary about what you do
 summary:
