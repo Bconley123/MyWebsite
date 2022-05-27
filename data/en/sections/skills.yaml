@@ -11,24 +11,24 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: SolidWorks CAD
+- name: SolidWorks
   logo: /images/sections/skills/SolidWorks-Logo.png
-  summary: "Capable of designing Models, creating multipart assemblies and drafting drawings"
+  summary: "Capable of creating advanced models, assemblies and drafting drawings with GD&T"
   url: "https://www.solidworks.com/"
 
 - name: Fusion 360
-  logo: /images/sections/skills/go.png
+  logo: /images/sections/skills/Fusion360.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://golang.org/"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: PTC Creo Parametric
+  logo: /images/sections/skills/creo-parametric.png
+  summary: "Create parametric parts, assemblies, drawings as well as boms with balloon labeling"
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+- name: Computer Numerical Control Mill and Lathe
+  logo: /images/sections/skills/CNC.png
+  summary: "Write programs in Gcode for both HAAS CNC Mill and Lathe"
+  
 
 - name: Prometheus
   logo: /images/sections/skills/prometheus.png
