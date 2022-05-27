@@ -30,20 +30,24 @@ skills:
   summary: "Write programs in Gcode for both HAAS CNC Mill and Lathe"
   
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: Microsoft Office Suite
+  logo: /images/sections/skills/MsOffice.png
+  summary: "Proficient in using Microsoft's Suite of Software such as Excel, Word, PowerPoint, Projects, Outlook & Visio"
+  
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Using as the main operating system such as Debian or Ubuntu. Capable of using terminal to navigate file structures and install software"
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+- name: Arduino
+  logo: /images/sections/skills/Arduino.png
+  summary: "Have programmed and connected many kinds of arduinos like the uno, mega, and other varieties such as Esp32 and Esp8266."
+
+- name: Python
+  logo: /images/sections/skills/Python.png
+  summary: "Experienced with creating programs in Anaconda environments to keep installed modules organized. Created user interfaces with PyQT with Qt Designer. Created Computer vision programs for Drone Science Course for tracking face and Aruco Markers"
+  
 
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  summary: "Know basic C/C++ programming. Used Arduino and Esp32 microcontroller projects."
