@@ -18,7 +18,8 @@ buttons:
   filter: "academic"
 - name: Hobby
   filter: "hobby"
-
+- name: NJIT
+  filter: "njit"
 # your projects
 projects:
 - name: Kubernetes
@@ -61,4 +62,4 @@ projects:
   timeline: "Jun 2019 - Present"
   repo: https://github.com/hossainemruz/toha
   summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+  tags: ["njit","hugo","theme","professional"]
