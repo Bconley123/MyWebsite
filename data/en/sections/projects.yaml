@@ -22,7 +22,7 @@ buttons:
   filter: "njit"
 # your projects
 projects:
-- name: Kubernetes
+- name: Small 
   logo: /images/sections/projects/kubernetes.png
   role: Contributor
   timeline: "March 2018 - Present"
