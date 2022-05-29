@@ -27,12 +27,12 @@ skills:
 
 - name: Computer Numerical Control Mill and Lathe
   logo: /images/sections/skills/CNC.png
-  summary: "Write programs in Gcode for both HAAS CNC Mill and Lathe"
+  summary: "Write programs in Gcode for both HAAS CNC Mill and Lathe, setting up tools, work and tool offsets, cartesian coordinates, and VPS system "
   
 
 - name: Microsoft Office Suite
   logo: /images/sections/skills/MsOffice.png
-  summary: "Proficient in using Microsoft's Suite of Software such as Excel, Word, PowerPoint, Projects, Outlook & Visio"
+  summary: "Proficient in Microsoft's Suite with Excel, Word, PowerPoint, Projects, Outlook & Visio"
   
 
 - name: Linux
